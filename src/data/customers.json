@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "customer": "Branson Weimann",
+    "last_seen": "09/08/2020",
+    "orders": 2,
+    "total_spent": "285.31 $US",
+    "last_purchase": "27/11/2019 13:12:25",
+    "news": true,
+    "segments": "Regular"
+  },
+  {
+    "id": 2,
+    "customer": "Anna Bruen",
+    "last_seen": "09/08/2020",
+    "orders": 3,
+    "total_spent": "647.91 $US",
+    "last_purchase": "07/06/2020 07:48:18",
+    "news": false,
+    "segments": ""
+  },
+  {
+    "id": 3,
+    "customer": "Gudrun Tromp",
+    "last_seen": "09/08/2020",
+    "orders": 4,
+    "total_spent": "0.00 $US",
+    "last_purchase": "16/07/2020 01:33:46",
+    "news": true,
+    "segments": "Regular"
+  },
+  {
+    "id": 4,
+    "customer": "Madison Torp",
+    "last_seen": "08/08/2020",
+    "orders": 5,
+    "total_spent": "100.00 $US",
+    "last_purchase": "14/06/2020 10:12:18",
+    "news": false,
+    "segments": ""
+  },
+  {
+    "id": 5,
+    "customer": "Rashawn Beer",
+    "last_seen": "08/08/2020",
+    "orders": 1,
+    "total_spent": "693.50 $US",
+    "last_purchase": "10/08/2020 10:03:18",
+    "news": true,
+    "segments": "Collector"
+  },
+  {
+    "id": 6,
+    "customer": "Beth Hill",
+    "last_seen": "08/08/2020",
+    "orders": 0,
+    "total_spent": "0.00 $US",
+    "last_purchase": "09/07/2020 11:32:25",
+    "news": true,
+    "segments": "Reviewer"
+  },
+  {
+    "id": 7,
+    "customer": "Rey Schuster",
+    "last_seen": "08/08/2020",
+    "orders": 3,
+    "total_spent": "0.00 $US",
+    "last_purchase": "20/06/2020 02:38:44",
+    "news": false,
+    "segments": "Regular"
+  },
+  {
+    "id": 8,
+    "customer": "Maggie Curtis",
+    "last_seen": "07/08/2020",
+    "orders": 2,
+    "total_spent": "120.50 $US",
+    "last_purchase": "05/08/2020 14:05:30",
+    "news": true,
+    "segments": "New"
+  },
+  {
+    "id": 9,
+    "customer": "Graham Baker",
+    "last_seen": "07/08/2020",
+    "orders": 7,
+    "total_spent": "850.00 $US",
+    "last_purchase": "25/07/2020 09:15:00",
+    "news": false,
+    "segments": "Regular"
+  },
+  {
+    "id": 10,
+    "customer": "Isabella Lawson",
+    "last_seen": "06/08/2020",
+    "orders": 4,
+    "total_spent": "550.75 $US",
+    "last_purchase": "02/08/2020 11:20:00",
+    "news": true,
+    "segments": "Collector"
+  }
+]
